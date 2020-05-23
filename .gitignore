@@ -1,0 +1,10 @@
+.vscode
+geo
+html_data/*
+img
+old_data/*
+other
+.ipynb_checkpoints
+.idea
+venv
+__pycache__
